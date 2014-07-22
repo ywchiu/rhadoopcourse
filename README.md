@@ -1,4 +1,4 @@
-rhadoopcourse
+RHadoop Course Material
 =============
 
-rhadoopcourse
+Slideshare: https://www.slideshare.net/secret/vZDqx94U4ydchp
