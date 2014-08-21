@@ -6,7 +6,7 @@ wordcount =
     input,
     output = NULL,
     pattern = " "){
-## wordcount-map
+    ## wordcount-map
     wc.map =
       function(., lines) {
         keyval(
@@ -15,11 +15,11 @@ wordcount =
               x = lines,
               split = pattern)),
           1)}
-##  wordcount-reduce
+    ##  wordcount-reduce
     wc.reduce =
       function(word, counts ) {
         keyval(word, sum(counts))}
-##  wordcount-mapreduce
+    ##  wordcount-mapreduce
     mapreduce(
       input = input,
       output = output,
