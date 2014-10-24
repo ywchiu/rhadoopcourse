@@ -1,7 +1,7 @@
 RHadoop Course Material
 =============
 
-Slideshare: https://www.slideshare.net/secret/IZK0TYbWco8cv7
+Slideshare: https://www.slideshare.net/secret/vZDqx94U4ydchp
 
 Password: rhadoop
 
